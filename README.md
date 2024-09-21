@@ -6,7 +6,7 @@ Studente: Mascolo Eliodoro
 
 Professore: Emanuel Di Nardo
 
-Link Relazione: docs/index.md
+Link Relazione: https://github.com/Eliodoro01/Reti-di-calcolatori-2023-24/blob/ce90faefe72b523e9bac695b21e6a195d00421f0/docs/index.md
 
 ## Traccia:
 
